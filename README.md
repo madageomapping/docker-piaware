@@ -33,6 +33,7 @@ Tested and working on:
 
 ### v3.7.2
  * Update piaware to v3.7.2
+ * Add piaware version information to container init
 
 ### v3.7.1
  * Update piaware to v3.7.1

@@ -193,7 +193,7 @@ docker run \
 There are a series of available variables you are required to set:
 
 * `TZ` - Your local timezone (optional)
-* `GAIN` - Optimizing gain which defaults to -10 https://discussions.flightaware.com/t/thoughts-on-optimizing-gain/44482/2 (optional)
+* `RTLSDR_GAIN` - Optimizing gain which defaults to -10 https://discussions.flightaware.com/t/thoughts-on-optimizing-gain/44482/2 (optional)
 * `USERNAME` - FlightAware account username
 * `PASSWORD` - FlightAware account password
 * `LAT` - Antenna's latitude

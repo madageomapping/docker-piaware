@@ -4,7 +4,7 @@
 EXITCODE=0
 echo -ne "\e[31m"
 if [ -z "${USERNAME}" ]; then
-  echo "ERROR: USER environment variable not set"
+  echo "ERROR: USERNAME environment variable not set"
   EXITCODE=1
 fi
 if [ -z "${PASSWORD}" ]; then
